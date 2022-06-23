@@ -1,21 +1,54 @@
 #!/bin/bash
-0x:
-100-lets_move:
-101-clean_emacs:
-102-tree:
-103-commas:
-10-back:
-11-lists:
-12-file_type:
-13-symbolic_links:
-14-copy_html:
-1-listit:
-2-bring_me_home:
-3-listfiles:
-4-listmorefiles:
-5-listfilesdigitonly:
-6-firstdirectory:
-7-movethatfile:
-8-firstdelete:
-9-firstdirdeletion:
-h_school.mgc:
+0-current_working_directory: text/plain
+
+0x:                          inode/x-empty
+
+100-lets_move:               text/plain
+
+101-clean_emacs:             text/plain
+
+102-tree:                    text/plain
+
+103-commas:                  text/plain
+
+10-back:                     text/plain
+
+11-lists:                    text/plain
+
+12-file_type:                text/plain
+
+13-symbolic_link:            text/plain
+
+14-copy_html:                text/plain
+
+1-listit:                    text/plain
+
+2-bring_me_home:             text/plain
+
+3-listfiles:                 text/plain
+
+4-listmorefiles:             text/plain
+
+5-listfilesdigitonly:        text/plain
+
+6-firstdirectory:            text/plain
+
+7-movethatfile:              text/plain
+
+8-firstdelete:               text/plain
+
+9-firstdirdeletion:          text/plain
+
+fake_school0:                text/plain
+
+fake_school1:                text/plain
+
+file_school0:                School
+
+file_school1:                School
+
+file_test0:                  inode/x-empty
+
+h_school.mgc:             ...
+
+(2158 chars long)
